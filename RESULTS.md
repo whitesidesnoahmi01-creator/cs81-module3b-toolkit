@@ -7,3 +7,5 @@
 4. The results of my prediction were correct, when n = 3, it returned "3 is odd", when n = 4, it returned "4 is not odd"
 
 5. The results of my prediction were correct, when n = 3 and n2 = 5, the function returns 243.
+
+6. The results of my prediction were correct, when n = 5 and n2 = 10, the function returns 50.
