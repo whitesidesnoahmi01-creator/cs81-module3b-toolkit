@@ -22,7 +22,9 @@ function isOdd(n){
 }
 
 function power(n, n2){
-    return n**n2;
+    return n ** n2;
 }
 
-console.log(power(3,5))
+function multiply(n, n2){
+    return n * n2;
+}
