@@ -8,15 +8,21 @@ function square(n){
 
 function isEven(n){
     if (n % 2 === 0) {
-        return n + " is even"
+        return n + " is even";
     }
     else
-        return n + " is not even"
+        return n + " is not even";
 }
 
 function isOdd(n){
     if (n % 2 > 0)
-        return n + " is odd"
+        return n + " is odd";
     else
-        return n + " is not odd"
+        return n + " is not odd";
 }
+
+function power(n, n2){
+    return n**n2;
+}
+
+console.log(power(3,5))
