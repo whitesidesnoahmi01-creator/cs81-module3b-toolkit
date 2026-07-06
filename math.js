@@ -14,3 +14,9 @@ function isEven(n){
         return n + " is not even"
 }
 
+function isOdd(n){
+    if (n % 2 > 0)
+        return n + " is odd"
+    else
+        return n + " is not odd"
+}
